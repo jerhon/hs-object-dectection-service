@@ -1,0 +1,5 @@
+﻿bin
+obj
+yolov4.onnx
+.idea
+appsettings.Development.json
